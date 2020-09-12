@@ -1,5 +1,7 @@
 +++
-# Experience widget.
+# A Recent Blog Posts section created with the Pages widget.
+# This section displays recent blog posts from `content/experience/`.
+
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -26,7 +28,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * Analysing regional social and economic development in Indonesia
   * Modelling of regional social and economic development in Indonesia
   """
@@ -40,7 +41,6 @@ date_format = "Jan 2006"
   date_end = "2008-01-01"
   description = """
   Responsibilities include:
-  
   * Analysing and modelling of inflation, interest rate and industries.
   """
 

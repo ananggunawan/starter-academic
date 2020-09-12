@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
 
-  * Analysing and modelling of social and economic regional development in Indonesia
+  * Analysing and modelling of regional development in Indonesia
   """
 
 [[experience]]

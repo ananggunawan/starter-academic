@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Analysing regional social and economic development in Indonesia
   * Modelling of regional social and economic development in Indonesia
   """
+  
 [[experience]]
   title = "Data Analyst - Economist"
   company = "Office of Chief Economist, Bank Mandiri"
@@ -42,4 +43,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Analysing and modelling of inflation, interest rate and industries.
   """
+  
+  
 +++

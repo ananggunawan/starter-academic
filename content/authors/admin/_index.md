@@ -1,10 +1,10 @@
----
+a---
 # Display name
 title: Anang Budi Gunawan
 
 # Username (this should match the folder name)
 authors:
-- anang
+- admin
 
 # Is this the primary user of the site?
 superuser: true

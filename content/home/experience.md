@@ -1,19 +1,14 @@
 +++
-# A Recent Experience section created with the Pages widget.
-# This section displays Experience from `content/Experience/`.
-
-widget = "Experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
-
 title = "Experience"
 subtitle = ""
-
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
-
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
@@ -21,17 +16,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Regional Development Planner"
-  company = "Ministry of National Development Planning Republic of Indonesia"
+  company = "Ministry of National Development Planning (Bappenas) Republic of Indonesia"
   company_url = "https://bappenas.go.id"
   location = "Indonesia"
   date_start = "2008-01-01"
   date_end = ""
   description = """
   Responsibilities include:
-  * Analysing regional social and economic development in Indonesia
-  * Modelling of regional social and economic development in Indonesia
+
+  * Analysing and modelling of social and economic regional development in Indonesia
   """
-  
+
 [[experience]]
   title = "Data Analyst - Economist"
   company = "Office of Chief Economist, Bank Mandiri"
@@ -41,7 +36,8 @@ date_format = "Jan 2006"
   date_end = "2008-01-01"
   description = """
   Responsibilities include:
+
   * Analysing and modelling of inflation, interest rate and industries.
   """
-  
+
 +++

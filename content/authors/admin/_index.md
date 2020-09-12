@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
--About me: A regional development planner at the Ministry of National Development Planning Republic of Indonesia (BAPPENAS). Currently studying for doctoral program at the Graduate School of International Development, Nagoya University. Interested in Economics particularly in the area of Development Economics, Regional Economics, and Spatial Analysis.
+-Bio: A regional development planner at the Ministry of National Development Planning Republic of Indonesia (BAPPENAS). Currently studying for doctoral program at the Graduate School of International Development, Nagoya University. Interested in Economics particularly in the area of Development Economics, Regional Economics, and Spatial Analysis.
 
 interests:
 - Development Economics

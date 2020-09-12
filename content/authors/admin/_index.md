@@ -4,7 +4,7 @@ title: Anang Budi Gunawan
 
 # Username (this should match the folder name)
 authors:
-- anang_budi_gunawan
+- anang
 
 # Is this the primary user of the site?
 superuser: true

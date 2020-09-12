@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/anang-budi-gunawan-a934751b1/
 - icon: researchgate
   icon_pack: fab
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.researchgate.net/profile/Anang_Gunawan
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen

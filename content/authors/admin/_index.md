@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Anang Budi Gunawan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Nagoya University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A regional development planner at the Ministry of National Development Planning Republic of Indonesia (BAPPENAS). Currently studying for doctoral program at the Graduate School of International Development, Nagoya University. Interested in Economics particularly in the area of Development Economics, Regional Economics, and Spatial Analysis. .
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Development Economics
+- Regional Development
+- Spatial Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in International Development
+    institution: Nagoya University
+    year: 2020
+  - course: M.Econ in Economics
+    institution: The University of Queensland
+    year: 2014
+  - course: BSc in Economics and Development Studies
+    institution: Gadjah Mada University
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

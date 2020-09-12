@@ -16,7 +16,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Regional Development Planner"
-  company = "Ministry of National Development Planning (Bappenas) Republic of Indonesia"
+  company = "Ministry of National Development Planning Republic of Indonesia"
   company_url = "https://bappenas.go.id"
   location = "Indonesia"
   date_start = "2008-01-01"

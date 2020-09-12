@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anang Budi Gunawan
+title: Anang BudiGunawan
 
 # Username (this should match the folder name)
 authors:

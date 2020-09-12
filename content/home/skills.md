@@ -1,9 +1,9 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+# widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+# headless = false  # This file represents a page section.
+# active = false  # Activate this widget? true/false
+# weight = 30  # Order that this section will appear.
 
 # title = "Skills"
 # subtitle = ""
@@ -15,10 +15,10 @@ weight = 30  # Order that this section will appear.
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 # [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+# icon = "r-project"
+# icon_pack = "fab"
+# name = "R"
+# description = "90%"
   
 # [[feature]]
   icon = "chart-line"

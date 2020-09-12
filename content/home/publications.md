@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
-subtitle = ""
+title = "What are the Drivers of Deindustrialization in Indonesia"
+subtitle = "An Autoregressive Distributed Lag-Bounds Model Approach"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

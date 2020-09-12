@@ -2,8 +2,8 @@
 title: "What are the Drivers of Deindustrialization in Indonesia?An Autoregressive Distributed Lag-Bounds Model Approach"
 author:
 - Gunawan, Anang Budi
-author_notes:
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
 date: "2020-03-01T00:00:00Z"
 doi: ""
 
@@ -17,8 +17,8 @@ publishDate: "2020-09-12T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forum of International Development Studies, 50*(9)"
-publication_short: ""
+publication: *Forum of International Development Studies, 50(9)*
+publication_short: *Forum of International Development Studies, 50(9)*
 
 abstract: The remarkable economic development in Indonesia from the 1970s through the 1990s cannot be separated from the role that its manufacturing sector played during the same period. As an important engine of growth, the manufacturing sector helped Indonesia in the process of capital accumulation, technology transfer, and productivity growth. However, since the Asian Financial Crisis (AFC) in 1997–1998, the manufacturing sector has tended to grow slower and its share to GDP began to decline in 2001. The purpose of this study is to analyze the determinants of deindustrialization in Indonesia by examining three hypotheses, which are the Secular, Dutch Disease, and Trade hypotheses. Our findings show that all hypotheses hold the econometric ground of cointegration. From a policy standpoint, the results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
 
@@ -32,6 +32,10 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
+
+links:
+- name: Custom Link
+  url: http://example.org
 url_pdf: https://www.gsid.nagoya-u.ac.jp/bpub/research/public/forum/50/09.pdf
 url_code: ''
 url_dataset: ''

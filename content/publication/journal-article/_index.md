@@ -1,9 +1,9 @@
 ---
 title: "What are the Drivers of Deindustrialization in Indonesia?An Autoregressive Distributed Lag-Bounds Model Approach"
-authors:
+author:
 - Gunawan, Anang Budi
-# author_notes:
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
 date: "2020-03-01T00:00:00Z"
 doi: ""
 

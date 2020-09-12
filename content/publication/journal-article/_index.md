@@ -4,7 +4,6 @@ authors:
 - Gunawan, Anang Budi
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
 date: "2020-03-01T00:00:00Z"
 doi: ""
 

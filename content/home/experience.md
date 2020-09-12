@@ -1,8 +1,8 @@
 +++
 # A Recent Experience section created with the Pages widget.
-# This section displays Experience from `content/experience/`.
+# This section displays Experience from `content/Experience/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "Experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
@@ -19,7 +19,6 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[experience]]
   title = "Regional Development Planner"
   company = "Ministry of National Development Planning Republic of Indonesia"
@@ -44,6 +43,5 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Analysing and modelling of inflation, interest rate and industries.
   """
-  
   
 +++

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
--bio: A regional development planner at the Ministry of National Development Planning Republic of Indonesia (BAPPENAS). Currently studying for doctoral program at the Graduate School of International Development, Nagoya University. Interested in Economics particularly in the area of Development Economics, Regional Economics, and Spatial Analysis.
+-About me: A regional development planner at the Ministry of National Development Planning Republic of Indonesia (BAPPENAS). Currently studying for doctoral program at the Graduate School of International Development, Nagoya University. Interested in Economics particularly in the area of Development Economics, Regional Economics, and Spatial Analysis.
 
 interests:
 - Development Economics
@@ -72,4 +72,3 @@ user_groups:
 
 Nelson Bighetti is a regional development planner at the Ministry of National Development Planning Republic of Indonesia (BAPPENAS). Currently studying for doctoral program at the Graduate School of International Development, Nagoya University. Interested in Economics particularly in the area of Development Economics, Regional Economics, and Spatial Analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

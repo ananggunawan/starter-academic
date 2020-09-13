@@ -33,10 +33,6 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-
-links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://www.gsid.nagoya-u.ac.jp/bpub/research/public/forum/50/09.pdf
 url_code: ''
 url_dataset: ''
@@ -90,11 +86,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: ''
+url_pdf: 'https://mpra.ub.uni-muenchen.de/99079/1/MPRA_paper_99079.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -113,7 +105,7 @@ image:
 # Publication 3
 title: "Regional Income Disparities, Distributional Convergence, and Spatial Effects: Evidence from Indonesia"
 authors:
-- Gunawan, Anang Budi and Santos-Marquez, Felipe and Mendez, Carlos
+- Gunawan, Anang Budi and Mendez, Carlos and Santos-Marquez, Felipe  
 # author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -146,11 +138,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: ''
+url_pdf: 'https://mpra.ub.uni-muenchen.de/97090/'
 url_code: ''
 url_dataset: ''
 url_poster: ''

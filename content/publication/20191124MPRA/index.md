@@ -2,7 +2,7 @@
 title: "Regional Income Disparities, Distributional Convergence, and Spatial Effects: Evidence from Indonesia"
 authors:
 - Gunawan, Anang Budi and Mendez, Carlos and Santos-Marquez, Felipe  
-date: "2020-03-01T00:00:00Z"
+date: "2019-11-24T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

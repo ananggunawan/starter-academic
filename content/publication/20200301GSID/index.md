@@ -1,8 +1,8 @@
 ---
-title: "On the Development Gap between Latin America and East Asia: Welfare, Efficiency, and Misallocation"
+title: "What are the Drivers of Deindustrialization in Indonesia?An Autoregressive Distributed Lag-Bounds Model Approach"
 authors:
 - admin
-date: "2015-02-03T00:00:00Z"
+date: "2020-03-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,26 +15,26 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forum of International Development Studies*, 45(3)"
+publication: "*Forum of International Development Studies*, 50(9)"
 publication_short: ""
 
-abstract: Both long economic stagnation in Latin America and sustained growth and in East Asia imply a rapidly raising development gap between the two regions. Using a series of numerical decompositions, this article documents three facts about this gap. First, differences in welfare-adjusted development are larger than those predicted by per-capita GDP. Second, differences in labor productivity account for most of the differences in both production and welfare-adjusted development. Third, inefficient production is the main factor holding down labor productivity. Furthermore, an analysis of the sectorial dynamics suggests that labor misallocation across sectors has been reducing the overall aggregate efficiency of Latin America. In particular, premature deindustrialization (i.e., workers moving from manufacturing into services) and falling productivity in the service sector had potentially large negative effects on efficiency, productivity, and welfare-adjusted development.
+abstract: The remarkable economic development in Indonesia from the 1970s through the 1990s cannot be separated from the role that its manufacturing sector played during the same period. As an important engine of growth, the manufacturing sector helped Indonesia in the process of capital accumulation, technology transfer, and productivity growth. However, since the Asian Financial Crisis (AFC) in 1997–1998, the manufacturing sector has tended to grow slower and its share to GDP began to decline in 2001. The purpose of this study is to analyze the determinants of deindustrialization in Indonesia by examining three hypotheses, which are the Secular, Dutch Disease, and Trade hypotheses. Our findings show that all hypotheses hold the econometric ground of cointegration. From a policy standpoint, the results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
 
 # Summary. An optional shortened abstract.
-summary:  Differences in welfare-adjusted development are larger than those predicted by per-capita GDP. Differences in labor productivity account for most of the differences in both production and welfare-adjusted development. Inefficient production is the main factor holding down labor productivity.
+summary:  As an important engine of growth, the manufacturing sector helped Indonesia in the process of capital accumulation, technology transfer, and productivity growth. However, since the Asian Financial Crisis (AFC) in 1997–1998, the manufacturing sector has tended to grow slower and its share to GDP began to decline in 2001. The results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
 
 tags:
-- convergence
-- decomposition
-- Latin America
-- Asia
+- deindustialization
+- manufacturing sector
+- Indonesia
+- ARDL-Bounds Model
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://mpra.ub.uni-muenchen.de/62588/1/03.pdf
+url_pdf: https://www.gsid.nagoya-u.ac.jp/bpub/research/public/forum/50/09.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,7 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: [convergence]
+# projects: [industrialization]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

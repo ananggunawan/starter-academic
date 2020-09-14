@@ -1,7 +1,7 @@
 ---
-title: "What are the Drivers of Deindustrialization in Indonesia?An Autoregressive Distributed Lag-Bounds Model Approach"
+title: "Regional Income Disparities, Distributional Convergence, and Spatial Effects: Evidence from Indonesia"
 authors:
-- admin
+- Gunawan, Anang Budi and Mendez, Carlos and Santos-Marquez, Felipe  
 date: "2020-03-01T00:00:00Z"
 doi: ""
 
@@ -12,29 +12,29 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forum of International Development Studies*, 50(9)"
+publication: "*MPRA Paper No 97090"
 publication_short: ""
 
-abstract: The remarkable economic development in Indonesia from the 1970s through the 1990s cannot be separated from the role that its manufacturing sector played during the same period. As an important engine of growth, the manufacturing sector helped Indonesia in the process of capital accumulation, technology transfer, and productivity growth. However, since the Asian Financial Crisis (AFC) in 1997–1998, the manufacturing sector has tended to grow slower and its share to GDP began to decline in 2001. The purpose of this study is to analyze the determinants of deindustrialization in Indonesia by examining three hypotheses, which are the Secular, Dutch Disease, and Trade hypotheses. Our findings show that all hypotheses hold the econometric ground of cointegration. From a policy standpoint, the results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
+abstract: Using a novel dataset, this paper studies the spatio-temporal dynamics of income per capita across provinces and districts in Indonesia over the 2000-2017 period. First, an exploratory spatial analysis suggests that spatial autocorrelation is only significant at the district level and it appears to be robust from 2013 to 2017. Thus, at the district level, we proceed to use a spatial filtering model for decomposing income into a spatially independent component and a spatial residual. Next, through the lens of a distributional convergence framework, we find that the non-filtered income is characterized by a lack of regional mobility. In contrast, the spatially independent component shows a pattern of polarization. We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
 
 # Summary. An optional shortened abstract.
-summary:  As an important engine of growth, the manufacturing sector helped Indonesia in the process of capital accumulation, technology transfer, and productivity growth. However, since the Asian Financial Crisis (AFC) in 1997–1998, the manufacturing sector has tended to grow slower and its share to GDP began to decline in 2001. The results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
+summary:  We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
 
 tags:
-- deindustialization
-- manufacturing sector
-- Indonesia
-- ARDL-Bounds Model
+- convergence
+- regional inequality 
+- spatial
+- distributional convergence
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.gsid.nagoya-u.ac.jp/bpub/research/public/forum/50/09.pdf
+url_pdf: https://mpra.ub.uni-muenchen.de/97090/
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,7 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: [industrialization]
+# projects: [convergence]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

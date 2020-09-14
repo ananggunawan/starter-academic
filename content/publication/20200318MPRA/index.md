@@ -1,8 +1,8 @@
 ---
-title: "Regional Income Disparities, Distributional Convergence, and Spatial Effects: Evidence from Indonesia"
+title: "Regional Income Disparities and Convergence Clubs in Indonesia: New District-Level Evidence 2000-2017"
 authors:
-- Gunawan, Anang Budi and Mendez, Carlos and Santos-Marquez, Felipe  
-date: "2019-11-24T00:00:00Z"
+- Aginta, Harry and Gunawan, Anang Budi and Mendez, Carlos  
+date: "2020-03-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,26 +15,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MPRA Paper No 97090"
+publication: "*MPRA Paper No 99079"
 publication_short: ""
 
-abstract: Using a novel dataset, this paper studies the spatio-temporal dynamics of income per capita across provinces and districts in Indonesia over the 2000-2017 period. First, an exploratory spatial analysis suggests that spatial autocorrelation is only significant at the district level and it appears to be robust from 2013 to 2017. Thus, at the district level, we proceed to use a spatial filtering model for decomposing income into a spatially independent component and a spatial residual. Next, through the lens of a distributional convergence framework, we find that the non-filtered income is characterized by a lack of regional mobility. In contrast, the spatially independent component shows a pattern of polarization. We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
+abstract: Reducing regional income disparities is a central challenge for promoting sustainable development in Indonesia. In particular, the prospect for these disparities to be reduced in the post-decentralization period has become a major concern for policymakers in Indonesia. Motivated by this background, this paper re-examines the regional convergence hypothesis at the district level in Indonesia over the 2000-2017 period. Using a novel data set, this study investigates the formation of multiple convergence clubs using non-linear dynami factor model. The results indicate that Indonesian districts form five convergence clubs, implying that the growth of income per capita in 514 districts can be clustered into five common trends. From the lens of spatial distribution, two common occasions can be observed. First, districts belonging to the same province tend be in the same club and second, the highest club is dominated by districts with specific characteristic i.e. big cities or natural resources rich regions. From a policy standpoint, the identification of multiple convergence clubs at significantly different levels of income allows regional policy makers to identify districts facing similar challenges. Potential policy interventions should consider this club classification to promote development initiatives both between members within a club and between the most proximate clubs. Finally, at national level, the central government should put more affirmative agenda based on the evolution of the multiple convergence clubs
+of Indonesia.
+
 
 # Summary. An optional shortened abstract.
-summary:  We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
+summary:   The results indicate that Indonesian districts form five convergence clubs, implying that the growth of income per capita in 514 districts can be clustered into five common trends...
 
 tags:
 - convergence
 - regional inequality 
 - spatial
-- distributional convergence
+- clubs convergence
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://mpra.ub.uni-muenchen.de/97090/
+url_pdf: https://mpra.ub.uni-muenchen.de/99079/1/MPRA_paper_99079.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

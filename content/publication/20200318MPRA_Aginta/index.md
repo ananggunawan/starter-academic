@@ -22,7 +22,7 @@ abstract: Reducing regional income disparities is a central challenge for promot
 of Indonesia.
 
 # Summary. An optional shortened abstract.
-summary:   The results indicate that Indonesian districts form five convergence clubs, implying that the growth of income per capita in 514 districts can be clustered into five common trends...
+summary:   The results indicate that Indonesian districts form five convergence clubs, implying that the growth of income per capita in 514 districts can be clustered into five common trends.
 
 tags:
 - convergence

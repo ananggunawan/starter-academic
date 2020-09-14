@@ -21,7 +21,7 @@ publication_short: ""
 abstract: Using a novel dataset, this paper studies the spatio-temporal dynamics of income per capita across provinces and districts in Indonesia over the 2000-2017 period. First, an exploratory spatial analysis suggests that spatial autocorrelation is only significant at the district level and it appears to be robust from 2013 to 2017. Thus, at the district level, we proceed to use a spatial filtering model for decomposing income into a spatially independent component and a spatial residual. Next, through the lens of a distributional convergence framework, we find that the non-filtered income is characterized by a lack of regional mobility. In contrast, the spatially independent component shows a pattern of polarization. We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
 
 # Summary. An optional shortened abstract.
-summary:  This paper studies the spatio-temporal dynamics of income per capita across provinces and districts in Indonesia over the 2000-2017 period. An exploratory spatial analysis suggests that spatial autocorrelation is only significant at the district level and it appears to be robust from 2013 to 2017. We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
+summary:  We conclude arguing that neighbor effects have played a significant role in reducing regional polarization in Indonesia.
 
 tags:
 - convergence

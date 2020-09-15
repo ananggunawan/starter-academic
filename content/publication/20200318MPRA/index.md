@@ -1,8 +1,8 @@
 ---
-title: "What are the Drivers of Deindustrialization in Indonesia?An Autoregressive Distributed Lag-Bounds Model Approach"
+title: "Regional Income Disparities and Convergence Clubs in Indonesia: New District-Level Evidence 2000-2017"
 authors:
-- admin
-date: "2020-03-01T00:00:00Z"
+- Aginta, Harry and Gunawan, Anang Budi and Mendez, Carlos
+date: "2020-03-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,10 +12,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forum of International Development Studies*, 50(9)"
+publication: "*MPRA Paper*, 99079"
 publication_short: ""
 
 abstract: The remarkable economic development in Indonesia from the 1970s through the 1990s cannot be separated from the role that its manufacturing sector played during the same period. As an important engine of growth, the manufacturing sector helped Indonesia in the process of capital accumulation, technology transfer, and productivity growth. However, since the Asian Financial Crisis (AFC) in 1997–1998, the manufacturing sector has tended to grow slower and its share to GDP began to decline in 2001. The purpose of this study is to analyze the determinants of deindustrialization in Indonesia by examining three hypotheses, which are the Secular, Dutch Disease, and Trade hypotheses. Our findings show that all hypotheses hold the econometric ground of cointegration. From a policy standpoint, the results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
@@ -24,17 +24,17 @@ abstract: The remarkable economic development in Indonesia from the 1970s throug
 summary:  The results imply that proper exchange rate management and promotion of industries that cater to expanding domestic demand could be effective policies to boost manufacturing share to GDP again. 
 
 tags:
-- deindustialization
-- manufacturing sector
+- clubs convergence
+- regional inequality
 - Indonesia
-- ARDL-Bounds Model
+- convergence
 
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.gsid.nagoya-u.ac.jp/bpub/research/public/forum/50/09.pdf
+url_pdf: https://mpra.ub.uni-muenchen.de/99079/1/MPRA_paper_99079.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

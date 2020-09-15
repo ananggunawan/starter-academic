@@ -1,4 +1,4 @@
-+++
+# +++
 # A Featured Publications section created with the Featured Content widget.
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
@@ -65,4 +65,4 @@
  
  # CSS class.
 # css_class = ""
-+++
+# +++
